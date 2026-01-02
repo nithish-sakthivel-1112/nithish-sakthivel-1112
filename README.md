@@ -25,7 +25,7 @@ I work mainly in **CloudOps and Platform Engineering**, with strong hands-on exp
 ## 🧱 Skills & Tools
 
 ### ☁️ Cloud & Infrastructure
-<div align="left">
+<div align="right">
   <img src="https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/8c9e2b9c-fd9f-48ed-af6e-ae9d347dd96e" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
